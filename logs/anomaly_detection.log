@@ -1,0 +1,6 @@
+2024-10-01 06:48:33.312 | INFO     | __main__:detect_anomalies:24 - Total entries: 1000
+2024-10-01 06:48:33.312 | INFO     | __main__:detect_anomalies:25 - Normal entries: 1000
+2024-10-01 06:48:33.313 | INFO     | __main__:detect_anomalies:31 - No anomalies detected.
+2024-10-01 06:51:07.802 | INFO     | __main__:detect_anomalies:24 - Total entries: 1000
+2024-10-01 06:51:07.803 | INFO     | __main__:detect_anomalies:25 - Normal entries: 1000
+2024-10-01 06:51:07.803 | INFO     | __main__:detect_anomalies:31 - No anomalies detected.
